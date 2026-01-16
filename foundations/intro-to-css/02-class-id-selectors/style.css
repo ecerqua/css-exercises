@@ -5,7 +5,17 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#two {
+#one {
     color: #0000ff;
     font-size: 36px;
+}
+
+.extra {
+    font-size: 24px;
+}
+
+#two {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
